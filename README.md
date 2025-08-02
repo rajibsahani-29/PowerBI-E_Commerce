@@ -56,5 +56,5 @@ The key role of these dashboards is to bring together performance metrics from:
 
 All in one place—offering a complete view of marketing effectiveness.
 
-<img src="https://github.com/rajibsahani-29/PowerBI-E_Commerce/blob/main/Ecommerce-KPI-dashboard.png" alt="Image" width="500" height="520">
+<img src="https://github.com/rajibsahani-29/PowerBI-E_Commerce/blob/main/Ecommerce-KPI-dashboard-2.png" alt="Image" width="500" height="520">
 
