@@ -29,3 +29,32 @@ In addition to Shopify data, the dashboard includes a Profit & Loss statement su
 🧮 Business Health Analysis
 
 <img src="https://github.com/rajibsahani-29/PowerBI-E_Commerce/blob/main/Ecommerce-KPI-dashboard.png" alt="Image" width="500" height="520">
+
+📢 marketing dashboards
+
+📣 Purpose of Marketing Dashboards
+Marketing dashboards help Marketing Managers keep track of how well their online store campaigns are performing. They provide a real-time view of marketing success across different initiatives.
+
+📊 Dynamic Content
+The data shown on these dashboards can vary depending on campaign types (email, social media, paid ads, etc.) and the current focus or goals of the marketing team.
+Examples include:
+
+📧 Email Click-Through Rates
+
+📈 Ad Conversion Rates
+
+📱 Social Media Engagement
+
+🎯 Campaign ROI
+
+🧩 Centralized Insights
+The key role of these dashboards is to bring together performance metrics from:
+
+🔗 Multiple platforms (e.g., Google Ads, Meta, Mailchimp)
+
+🛍️ Multiple brands (if applicable)
+
+All in one place—offering a complete view of marketing effectiveness.
+
+<img src="https://github.com/rajibsahani-29/PowerBI-E_Commerce/blob/main/Ecommerce-KPI-dashboard.png" alt="Image" width="500" height="520">
+
