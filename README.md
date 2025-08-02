@@ -28,3 +28,4 @@ In addition to Shopify data, the dashboard includes a Profit & Loss statement su
 
 🧮 Business Health Analysis
 
+<img src="https://github.com/rajibsahani-29/PowerBI-E_Commerce/blob/main/Ecommerce-KPI-dashboard.png" alt="Image" width="500" height="520">
