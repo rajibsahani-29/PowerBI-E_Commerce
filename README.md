@@ -30,7 +30,7 @@ In addition to Shopify data, the dashboard includes a Profit & Loss statement su
 
 <img src="https://github.com/rajibsahani-29/PowerBI-E_Commerce/blob/main/Ecommerce-KPI-dashboard.png" alt="Image" width="500" height="520">
 
-📢 marketing dashboards
+📢 **marketing dashboards**
 
 📣 Purpose of Marketing Dashboards
 Marketing dashboards help Marketing Managers keep track of how well their online store campaigns are performing. They provide a real-time view of marketing success across different initiatives.
